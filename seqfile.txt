@@ -1,0 +1,4 @@
+(Ref:1.0,NRS:1.0,_MINIGRAPH_:1.0);
+Ref     hg38.fa
+NRS     seq1.fa
+_MINIGRAPH_     hg38.nrs.sv.gfa.fa.gz
